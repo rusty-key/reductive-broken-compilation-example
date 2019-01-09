@@ -1,0 +1,15 @@
+{
+  "name": "@ahrefs/bs-react-context-basic-example",
+  "namespace": true,
+  "sources": ["src"],
+  "bs-dependencies": ["reason-react", "reductive"],
+  "reason": {
+    "react-jsx": 2
+  },
+  "bsc-flags": ["-bs-super-errors"],
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "refmt": 3
+}
